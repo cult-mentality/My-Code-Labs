@@ -1,0 +1,96 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\kavit\AndroidStudioProjects\My-Code-Labs\SimpleCalc\app\src\main\AndroidManifest.xml:13:1-30:12
+INJECTED from C:\Users\kavit\AndroidStudioProjects\My-Code-Labs\SimpleCalc\app\src\main\AndroidManifest.xml:13:1-30:12
+INJECTED from C:\Users\kavit\AndroidStudioProjects\My-Code-Labs\SimpleCalc\app\src\main\AndroidManifest.xml:13:1-30:12
+INJECTED from C:\Users\kavit\AndroidStudioProjects\My-Code-Labs\SimpleCalc\app\src\main\AndroidManifest.xml:13:1-30:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\kavit\.gradle\caches\transforms-2\files-2.1\b0b9b4d97068134436c8a38c46a7a42e\appcompat-v7-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\kavit\.gradle\caches\transforms-2\files-2.1\3c2573d8ae6165bb3e4969d23597aa83\support-fragment-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\kavit\.gradle\caches\transforms-2\files-2.1\506f9fe927b451d7746780a78a0e488b\animated-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\kavit\.gradle\caches\transforms-2\files-2.1\76591be36c137811550127eeb7d29512\support-core-ui-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\kavit\.gradle\caches\transforms-2\files-2.1\f488172984bffce1a6cc42e701eb82e8\support-core-utils-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\kavit\.gradle\caches\transforms-2\files-2.1\a75d596929543885b33856f4c4336d8e\support-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\kavit\.gradle\caches\transforms-2\files-2.1\0200b73ae0449dcdbf9c15f619365cd3\support-compat-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\kavit\.gradle\caches\transforms-2\files-2.1\5790662f62aa377b66b0776c1d642b60\livedata-core-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\kavit\.gradle\caches\transforms-2\files-2.1\d6e302bc76c741b4a30928c44d07eb27\viewmodel-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\kavit\.gradle\caches\transforms-2\files-2.1\b71eeb38ea565aa114a33c8e6bfb7133\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\kavit\.gradle\caches\transforms-2\files-2.1\16d5798cd25d551aec3eba58710d8668\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\kavit\AndroidStudioProjects\My-Code-Labs\SimpleCalc\app\src\main\AndroidManifest.xml:13:1-30:12
+INJECTED from C:\Users\kavit\AndroidStudioProjects\My-Code-Labs\SimpleCalc\app\src\main\AndroidManifest.xml:13:1-30:12
+INJECTED from C:\Users\kavit\AndroidStudioProjects\My-Code-Labs\SimpleCalc\app\src\main\AndroidManifest.xml:13:1-30:12
+	package
+		ADDED from C:\Users\kavit\AndroidStudioProjects\My-Code-Labs\SimpleCalc\app\src\main\AndroidManifest.xml:14:5-45
+		INJECTED from C:\Users\kavit\AndroidStudioProjects\My-Code-Labs\SimpleCalc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kavit\AndroidStudioProjects\My-Code-Labs\SimpleCalc\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\kavit\AndroidStudioProjects\My-Code-Labs\SimpleCalc\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kavit\AndroidStudioProjects\My-Code-Labs\SimpleCalc\app\src\main\AndroidManifest.xml:13:1-30:12
+		INJECTED from C:\Users\kavit\AndroidStudioProjects\My-Code-Labs\SimpleCalc\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\kavit\AndroidStudioProjects\My-Code-Labs\SimpleCalc\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kavit\AndroidStudioProjects\My-Code-Labs\SimpleCalc\app\src\main\AndroidManifest.xml:13:1-30:12
+		INJECTED from C:\Users\kavit\AndroidStudioProjects\My-Code-Labs\SimpleCalc\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\kavit\AndroidStudioProjects\My-Code-Labs\SimpleCalc\app\src\main\AndroidManifest.xml:13:11-69
+application
+ADDED from C:\Users\kavit\AndroidStudioProjects\My-Code-Labs\SimpleCalc\app\src\main\AndroidManifest.xml:16:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\kavit\AndroidStudioProjects\My-Code-Labs\SimpleCalc\app\src\main\AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from C:\Users\kavit\AndroidStudioProjects\My-Code-Labs\SimpleCalc\app\src\main\AndroidManifest.xml:19:9-41
+	android:icon
+		ADDED from C:\Users\kavit\AndroidStudioProjects\My-Code-Labs\SimpleCalc\app\src\main\AndroidManifest.xml:18:9-43
+	android:allowBackup
+		ADDED from C:\Users\kavit\AndroidStudioProjects\My-Code-Labs\SimpleCalc\app\src\main\AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from C:\Users\kavit\AndroidStudioProjects\My-Code-Labs\SimpleCalc\app\src\main\AndroidManifest.xml:21:9-40
+activity#com.example.android.SimpleCalc.MainActivity
+ADDED from C:\Users\kavit\AndroidStudioProjects\My-Code-Labs\SimpleCalc\app\src\main\AndroidManifest.xml:22:9-27:20
+	android:name
+		ADDED from C:\Users\kavit\AndroidStudioProjects\My-Code-Labs\SimpleCalc\app\src\main\AndroidManifest.xml:22:19-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\kavit\AndroidStudioProjects\My-Code-Labs\SimpleCalc\app\src\main\AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\kavit\AndroidStudioProjects\My-Code-Labs\SimpleCalc\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\kavit\AndroidStudioProjects\My-Code-Labs\SimpleCalc\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\kavit\AndroidStudioProjects\My-Code-Labs\SimpleCalc\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\kavit\AndroidStudioProjects\My-Code-Labs\SimpleCalc\app\src\main\AndroidManifest.xml:25:27-74
+uses-sdk
+INJECTED from C:\Users\kavit\AndroidStudioProjects\My-Code-Labs\SimpleCalc\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\kavit\AndroidStudioProjects\My-Code-Labs\SimpleCalc\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kavit\AndroidStudioProjects\My-Code-Labs\SimpleCalc\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\kavit\.gradle\caches\transforms-2\files-2.1\b0b9b4d97068134436c8a38c46a7a42e\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\kavit\.gradle\caches\transforms-2\files-2.1\b0b9b4d97068134436c8a38c46a7a42e\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\kavit\.gradle\caches\transforms-2\files-2.1\3c2573d8ae6165bb3e4969d23597aa83\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\kavit\.gradle\caches\transforms-2\files-2.1\3c2573d8ae6165bb3e4969d23597aa83\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\kavit\.gradle\caches\transforms-2\files-2.1\506f9fe927b451d7746780a78a0e488b\animated-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\kavit\.gradle\caches\transforms-2\files-2.1\506f9fe927b451d7746780a78a0e488b\animated-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\kavit\.gradle\caches\transforms-2\files-2.1\76591be36c137811550127eeb7d29512\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\kavit\.gradle\caches\transforms-2\files-2.1\76591be36c137811550127eeb7d29512\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\kavit\.gradle\caches\transforms-2\files-2.1\f488172984bffce1a6cc42e701eb82e8\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\kavit\.gradle\caches\transforms-2\files-2.1\f488172984bffce1a6cc42e701eb82e8\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\kavit\.gradle\caches\transforms-2\files-2.1\a75d596929543885b33856f4c4336d8e\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\kavit\.gradle\caches\transforms-2\files-2.1\a75d596929543885b33856f4c4336d8e\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\kavit\.gradle\caches\transforms-2\files-2.1\0200b73ae0449dcdbf9c15f619365cd3\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\kavit\.gradle\caches\transforms-2\files-2.1\0200b73ae0449dcdbf9c15f619365cd3\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\kavit\.gradle\caches\transforms-2\files-2.1\5790662f62aa377b66b0776c1d642b60\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\kavit\.gradle\caches\transforms-2\files-2.1\5790662f62aa377b66b0776c1d642b60\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\kavit\.gradle\caches\transforms-2\files-2.1\d6e302bc76c741b4a30928c44d07eb27\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\kavit\.gradle\caches\transforms-2\files-2.1\d6e302bc76c741b4a30928c44d07eb27\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\kavit\.gradle\caches\transforms-2\files-2.1\b71eeb38ea565aa114a33c8e6bfb7133\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\kavit\.gradle\caches\transforms-2\files-2.1\b71eeb38ea565aa114a33c8e6bfb7133\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\kavit\.gradle\caches\transforms-2\files-2.1\16d5798cd25d551aec3eba58710d8668\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\kavit\.gradle\caches\transforms-2\files-2.1\16d5798cd25d551aec3eba58710d8668\runtime-1.1.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\kavit\AndroidStudioProjects\My-Code-Labs\SimpleCalc\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kavit\AndroidStudioProjects\My-Code-Labs\SimpleCalc\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\kavit\AndroidStudioProjects\My-Code-Labs\SimpleCalc\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kavit\AndroidStudioProjects\My-Code-Labs\SimpleCalc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kavit\AndroidStudioProjects\My-Code-Labs\SimpleCalc\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\kavit\AndroidStudioProjects\My-Code-Labs\SimpleCalc\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kavit\AndroidStudioProjects\My-Code-Labs\SimpleCalc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kavit\AndroidStudioProjects\My-Code-Labs\SimpleCalc\app\src\main\AndroidManifest.xml

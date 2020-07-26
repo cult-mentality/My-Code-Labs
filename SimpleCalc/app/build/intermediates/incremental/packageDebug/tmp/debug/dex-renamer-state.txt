@@ -1,0 +1,4 @@
+#Sun Jul 26 14:38:13 IST 2020
+base.0=C\:\\Users\\kavit\\AndroidStudioProjects\\My-Code-Labs\\SimpleCalc\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
